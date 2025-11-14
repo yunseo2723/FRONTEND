@@ -6,25 +6,13 @@
 
 # 👁‍🗨 사건, 오늘
 
-
-
-## 🧑‍🤝‍🧑 팀 구성원
-| <img src="https://github.com/user-attachments/assets/f36bea8a-7664-4999-896c-75aad401f9d7" width="140" /> | <img src="https://github.com/user-attachments/assets/e7050ae6-196e-4f9c-84d6-56dd29f9ea65" width="140" /> |
-| :-----------------: | :-----------------: |
-| **하윤서**       | **김도현**       |
-| 프론트엔드 메인   | 프론트엔드 서브    |
-| 서경대학교     | 서경대학교    |
-| [@yunseo2723](https://github.com/yunseo2723) | [@kdhdd](https://github.com/kdhdd)
-
----
-
 <br>
 
 ## 🔗 Backend Repository
 
 사건, 오늘 프로젝트의 백엔드 레포지토리
 
-[![Backend Repository](https://img.shields.io/badge/Backend-Repository-orange?style=for-the-badge&logo=github)](https://github.com/SW-Cloud-Fundamentals/MSA)
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-orange?style=for-the-badge&logo=github)](https://github.com/yunseo2723/MSA)
 
 
 <br>
